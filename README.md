@@ -1,3 +1,6 @@
+# Temporary note for DSI evaluation:
+I was very displeased with how my original capstone turned out, for various reasons. I'm reworking it currently with this new focus. I expect to be finished by Tuesday morning -- no sweat if you perform you evaluation prior to that. Just wanted to let you know!
+
 # What's So Funny? Explaining the Joke in Comedy Podcast Reviews
 Comedy podcasts make up 3 of the [top 5 most financially successful podcasts](https://www.statista.com/statistics/476423/highest-earning-podcasts-revenue-worldwide/). The ratings of audience members for these shows are important for advertisers, given that their products become affiliated with the podcast sentiment. Further, positive podcast reviews are vital to the growth of audience size.
 
@@ -11,7 +14,7 @@ The entire [dataset](https://www.kaggle.com/thoughtvector/podcastreviews) includ
 
 To focus on the particularly popular and successful comedy genre, I selected the 249k reviews affiliated with 8k comedy podcasts.
 
-The reviews include both titles, limited to 100 characters, as well as the full content of the review, limited to 6000 characters.
+The reviews include titles (max 100 characters)as well as the full content of the review (max 6000 characters).
 
 ![Character counts](./img/character_counts.png)
 
