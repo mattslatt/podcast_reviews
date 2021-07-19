@@ -1,5 +1,5 @@
 # Temporary note for DSI evaluation:
-I was very displeased with how my original capstone turned out, for various reasons. I'm reworking it currently with this new focus. I expect to be finished by Tuesday morning -- no sweat if you perform you evaluation prior to that. Just wanted to let you know!
+I was very displeased with how my original capstone turned out, for various reasons. I'm reworking it currently with this new focus on comedy podcast reviews, and will re-run my models with additional attention to the model features for a better, more value-oriented analysis. I expect to be finished by Tuesday morning -- no sweat if you perform you evaluation prior to that. Just wanted to let you know!
 
 # What's So Funny? Explaining the Joke in Comedy Podcast Reviews
 Comedy podcasts make up 3 of the [top 5 most financially successful podcasts](https://www.statista.com/statistics/476423/highest-earning-podcasts-revenue-worldwide/). The ratings of audience members for these shows are important for advertisers, given that their products become affiliated with the podcast sentiment. Further, positive podcast reviews are vital to the growth of audience size.
