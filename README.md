@@ -1,7 +1,7 @@
 # What's So Funny? Explaining the Joke in Comedy Podcast Reviews
-Comedy podcasts make up 3 of the [top 5 most financially successful podcasts](https://www.statista.com/statistics/476423/highest-earning-podcasts-revenue-worldwide/). The ratings of audience members for these shows are important for advertisers, given that their products become affiliated with the podcast sentiment. Further, positive podcast reviews are vital to the growth of audience size.
+Comedy podcasts make up 3 of the [top 5 most financially successful podcasts](https://www.statista.com/statistics/476423/highest-earning-podcasts-revenue-worldwide/). Podcast ratings for these shows are important for advertisers, given that their products are associated with the podcast in the minds of the listeners. Further, podcast hosts must have a keen sense of how their listeners respond to their shows because positive reviews are critical for gaining popularity in this competitive industry.
 
-Using more than a quarter million comedy podcast reviews, I will examine what text features of podcast reviews contribute towards positive ratings. This information is useful for advertisers and producers alike, who rely on their listeners as a source of revunue and word-of-mouth distribution.
+Using a [publicly available dataset](https://www.kaggle.com/thoughtvector/podcastreviews) containing more than 1.2 million podcast reviews, this project will build a model that processes the text of user reviews to predict whether they have a positive or negative sentiment towards the show. With a refined model, we'll look at specific text features that contribute an outsized effect for these predictions. This information is useful for advertisers and producers alike, who rely on reviewers (a subset of all podcast listeners) as a source of revunue and word-of-mouth distribution.
 
 
 # Exploratory Data Analysis
